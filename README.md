@@ -1,7 +1,8 @@
 # Reacher
+[image1]: https://github.com/LevyVianna/Udacity_Reacher_Project2/blob/main/reacher.gif?raw=true "Trained Agents"
 
 ### Game Rules
-
+![Traineds Agent][image1]
 
 ### Getting Started
 1. I recommend you install python 3.6 and the virtual environment you prefer.
